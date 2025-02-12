@@ -53,3 +53,7 @@ pourquoi ? ». 5 POINTS
 Ce projet python intervient dans le cadre de la deuxième étape du rendu de base de données. Il a pour but de mettre en place un programme python permettant de manipuler les données de la base de données.
 
 Pour exécuter ce projet, veuillez vous reférer à la section [Installation et Initialisation du Projet](installation.md).
+
+## Activité du répertoire :
+
+![Alt](https://repobeats.axiom.co/api/embed/010b71d4d078cf3080ec6e19fde49d0784f2fd70.svg "Repobeats analytics image")
